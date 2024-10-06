@@ -1,23 +1,5 @@
 <a href="https://codeclimate.com/github/Shynuaa/Brain-games/maintainability"><img src="https://api.codeclimate.com/v1/badges/81d0a6a2385a8d085a89/maintainability" /></a>
 
-<!DOCTYPE html>
-<html>
-<head>
-  <link rel="stylesheet" type="text/css" href="asciinema-player.css" />
-</head>
-<body>
-  <div id="player"></div>
-  <script src="asciinema-player.min.js"></script>
-  <script>
-    AsciinemaPlayer.create(
-      '/assets/679271.cast',
-      document.getElementById('player'),
-      { cols: 120, rows: 30 }
-    );
-  </script>
-</body>
-</html>
-
 Код после установки линтера (Flake8):
 
 ![Image alt](https://github.com/Shynuaa/Brain-games/blob/images/photo_2024-10-06_18-35-09.jpg)
