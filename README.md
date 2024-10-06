@@ -1,6 +1,6 @@
 <a href="https://codeclimate.com/github/Shynuaa/Brain-games/maintainability"><img src="https://api.codeclimate.com/v1/badges/81d0a6a2385a8d085a89/maintainability" /></a>
 
-![Uploading Asciinema.gif…]()
+![Asciinema](https://github.com/user-attachments/assets/48dcab97-3621-411d-9c36-bbe4145a94ae)
 
 Код после установки линтера (Flake8):
 
