@@ -1,3 +1,4 @@
+<a href="https://codeclimate.com/github/Shynuaa/Brain-games/maintainability"><img src="https://api.codeclimate.com/v1/badges/81d0a6a2385a8d085a89/maintainability" /></a>
 
 ### Задание
 
